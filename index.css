@@ -1,2 +1,8 @@
 body{background-color:#04d0e2}
 li{list-style:none}    
+.box{display:block}
+ul{
+    border:2px solid black;
+    margin:;
+    padding-left: 0;
+}
